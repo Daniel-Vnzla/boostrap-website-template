@@ -1,3 +1,3 @@
 # boostrap-website-template
 
-A teomplate website made with Boostrap and popper.js
+A teomplate website made with HTML, Boostrap and popper.js
